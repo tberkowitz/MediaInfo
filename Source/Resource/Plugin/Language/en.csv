@@ -145,12 +145,12 @@
 , ;, 
 : ;: 
 3D;3D
-3DType;3D Type
+3DType;3D type
 About;About
 About_Hint;How to contact me and find last version
 Accompaniment;Accompaniment
-ActiveFormatDescription;Active Format Description
-ActiveFormatDescription_MuxingMode;Active Format Description, Muxing mode
+ActiveFormatDescription;Active format description
+ActiveFormatDescription_MuxingMode;Active format description, muxing mode
 Actor;Actor
 Actor_Character;Character played
 Added_Date;Added date
@@ -162,32 +162,32 @@ Album_ReplayGain_Gain;Album replay gain
 Album_ReplayGain_Peak;Album replay gain peak
 Alignment;Alignment
 Alignment_Aligned;Aligned on interleaves
-Alignment_Split;Split accross interleaves
+Alignment_Split;Split across interleaves
 All;All
 AlternateGroup;Alternate group
 Archival_Location;Archival location
 Arranger;Arranger
-ArtDirector;ArtDirector
+ArtDirector;Art director
 AspectRatio;Aspect ratio
-AssistantDirector;AssistantDirector
+AssistantDirector;Assistant director
 at;at
-At least one file;(You must at least open one file)
+At least one file;(You must open at least one file)
 Audio;Audio
 Audio stream(s);Audio streams
 Audio_Codec_List;Audio codecs
 Audio_No;No audio
 Audio1;First audio stream
 Audio2;Second audio stream
-AudioComments;Audio Comments
+AudioComments;Audio comments
 AudioCount;Count of audio streams
-AudioDescriptionPresent;Audio Description Present
-AudioDescriptionType;Audio Description Type
-AudioLoudnessStandard;Audio Loudness Standard
-AudioTrackLayout;Audio Track Layout
+AudioDescriptionPresent;Audio description present
+AudioDescriptionType;Audio description type
+AudioLoudnessStandard;Audio loudness standard
+AudioTrackLayout;Audio track layout
 Author;Author
-BarCode;BarCode
+BarCode;Barcode
 Basic;Basic
-Basic_Note;Note : for more information about this file, you must select a different view (Sheet, Tree...)
+Basic_Note;Note: for more information about this file, you must select a different view (Sheet, Tree, ...)
 BitDepth;Bit depth
 BitDepth_Detected;Detected bit depth
 BitDepth_Stored;Stored bit depth
@@ -196,18 +196,18 @@ BitRate_Encoded;Encoded bit rate
 BitRate_Maximum;Maximum bit rate
 BitRate_Minimum;Minimum bit rate
 BitRate_Mode;Bit rate mode
-BitRate_Mode_CBR;Constant
-BitRate_Mode_VBR;Variable
+BitRate_Mode_CBR;Constant bit rate mode
+BitRate_Mode_VBR;Variable bit rate mode
 BitRate_Nominal;Nominal bit rate
 Bits-(Pixel*Frame);Bits/(Pixel*Frame)
 BufferSize;Buffer size
 Cancel;Cancel
-Channel(s);Channel(s)
+Channel(s);Channels
 ChannelPositions;Channel positions
-Chapter(s);Chapter(s)
+Chapter(s);Chapters
 Chapters;Chapters
-Chapters stream(s);Chapters stream(s)
-Chapters_Codec_List;Chapters Codecs
+Chapters stream(s);Chapter streams
+Chapters_Codec_List;Chapter codecs
 Chapters_No;No chapters
 ChaptersCount;Count of chapter streams
 CheckNewVersion;Check for new version
@@ -218,14 +218,14 @@ Choose export format;Choose your desired export format
 Choose file(s);Choose the files to open
 Choose filename;Choose your desired filename
 Choose language;Choose your desired language
-Choregrapher;Choregrapher
+Choregrapher;Choreographer
 Chroma;Chroma
 ChromaSubsampling;Chroma subsampling
 Close;Close
 Close all before open;Close all before open
-ClosedCaptionsLanguage;Closed Captions Language
-ClosedCaptionsPresent;Closed Captions Present
-ClosedCaptionsType;Closed Captions Type
+ClosedCaptionsLanguage;Closed Captions language
+ClosedCaptionsPresent;Closed Captions present
+ClosedCaptionsType;Closed Captions type
 Codec;Codec
 Codec_Description;Codec description
 Codec_Info;Details for codec
@@ -246,7 +246,7 @@ Codec_Settings_Sign;Codec settings, Sign
 Codec_Url;Weblink for codec
 CodecID;Codec ID
 CodecID_Description;Description of the codec
-CoDirector;Codirector
+CoDirector;Co-director
 Collection;Collection
 Colorimetry;Colorimetry
 ColorSpace;Color space
@@ -256,25 +256,25 @@ Comment;Comment
 CommissionedBy;Commissioned by
 Compilation;Compilation
 CompleteName;Complete name
-CompletionDate;Completion Date
+CompletionDate;Completion date
 Composer;Composer
 Compression_Mode;Compression mode
-Compression_Mode_Lossless;Lossless
-Compression_Mode_Lossy;Lossy
+Compression_Mode_Lossless;Lossless compression mode
+Compression_Mode_Lossy;Lossy compression mode
 Compression_Ratio;Compression ratio
 Conductor;Conductor
-ContactEmail;Contact Email
-ContactTelephoneNumber;Contact Telephone Number
+ContactEmail;Contact e-mail
+ContactTelephoneNumber;Contact telephone number
 Container and general information;Container and general information
-ContentType;ContentType
-CoProducer;Coproducer
+ContentType;Content type
+CoProducer;Co-producer
 Copyright;Copyright
-CopyrightYear;Copyright Year
+CopyrightYear;Copyright year
 CostumeDesigner;Costume designer
 Count;Count
 Country;Country
 Cover;Cover
-Cover_Datas;Cover datas
+Cover_Datas;Cover data
 Cover_Description;Cover description
 Cover_Mime;Cover MIME
 Cover_Type;Cover type
@@ -308,7 +308,7 @@ Duration_Start;Start time
 Edit;Edit
 EditedBy;Edited by
 ElementCount;Count of elements
-EMail;E-Mail
+EMail;E-mail
 Encoded_Application;Writing application
 Encoded_Date;Encoded date
 Encoded_Library;Writing library
@@ -316,7 +316,7 @@ Encoded_Library_Settings;Encoding settings
 Encoded_Original;Original support
 EncodedBy;Encoded by
 EPG_Positions;EPG positions (internal)
-EpisodeTitleNumber;Episode Title Number
+EpisodeTitleNumber;Episode title number
 Error_File;Error while reading file
 ExecutiveProducer;Executive producer
 Exit;Exit
@@ -328,7 +328,7 @@ Family;Family
 Fax;Fax
 File;File
 File size;File size
-File_Append;Append to the existing file (Warning : be careful to have the same parameters)
+File_Append;Append to the existing file (Warning: be careful to have the same parameters)
 File_Created_Date;File creation date
 File_Created_Date_Local;File creation date (local)
 File_Hint;Select a multimedia file to examine
@@ -344,8 +344,8 @@ Folder (Recursively);Folder (Recursively)
 Folder_Hint;Select a folder to examine
 FolderName;Folder name
 Format;Format
-Format_Commercial;Commercial name
-Format_Commercial_IfAny;Commercial name
+Format_Commercial;Commercial format name
+Format_Commercial_IfAny;Commercial format name
 Format_Description;Format description
 Format_Info;Details for format
 Format_Profile;Format profile
@@ -379,16 +379,16 @@ Format_Settings_Sign;Format settings, Sign
 Format_Settings_Wrapping;Format settings, wrapping mode
 Format_Url;Weblink for format
 Format_Version;Format version
-FpaManufacturer;FPA Manufacturer
-FpaPass;FPA Pass
-FpaVersion;FPA Version
+FpaManufacturer;FPA manufacturer
+FpaPass;FPA pass
+FpaVersion;FPA version
 FrameCount;Frame count
 FrameRate;Frame rate
 FrameRate_Maximum;Maximum frame rate
 FrameRate_Minimum;Minimum frame rate
 FrameRate_Mode;Frame rate mode
-FrameRate_Mode_CFR;Constant
-FrameRate_Mode_VFR;Variable
+FrameRate_Mode_CFR;Constant frame rate mode
+FrameRate_Mode_VFR;Variable frame rate mode
 FrameRate_Nominal;Nominal frame rate
 FrameRate_Original;Original frame rate
 General;General
@@ -585,7 +585,7 @@ Genre_188;G-Funk
 Genre_189;Dubstep
 Genre_190;Garage Rock
 Genre_191;Psybient
-Go to WebSite;Go to website
+Go to WebSite;Go to web site
 Gop_OpenClosed;GOP, Open/Closed
 Gop_OpenClosed_Open;Open
 Gop_OpenClosed_Closed;Closed
@@ -604,10 +604,10 @@ How many text streams?;How many text streams?
 How many video streams?;How many video streams?
 HTML;HTML
 ID;ID
-IdentClockStart;Ident Clock Start
+IdentClockStart;Ident clock start
 Image;Image
 Image stream(s);Image streams
-Image_Codec_List;Codecs Image
+Image_Codec_List;Image codecs
 ImageCount;Count of image streams
 Info;Info
 Instruments;Instruments
@@ -619,7 +619,7 @@ Interlaced_TFF;Top Field First
 Interlacement;Interlacement
 Interleave_Duration;Interleave, duration
 Interleave_Preload;Interleave, preload duration
-Interleave_VideoFrames;Interleave, duration
+Interleave_VideoFrames;Interleave, video frames
 Interleaved;Interleaved
 InternetMediaType;Internet media type
 IRCA;IRCA
@@ -829,7 +829,7 @@ LawRating;Law rating
 LCCN;LCCN
 Library;Muxing library
 Lightness;Lightness
-LineUpStart;Line Up Start
+LineUpStart;Line up start
 List;List
 Lyricist;Lyricist
 Lyrics;Lyrics
@@ -837,7 +837,7 @@ Mastered_Date;Mastered date
 MasteredBy;Mastered by
 MasteringDisplay_ColorPrimaries;Mastering display color primaries
 MasteringDisplay_Luminance;Mastering display luminance
-Matrix_Channel(s);Matrix encoding, Channel(s)
+Matrix_Channel(s);Matrix encoding, channels
 Matrix_ChannelPositions;Matrix encoding, channel positions
 matrix_coefficients;Matrix coefficients
 Matrix_Format;Matrix encoding, format
@@ -860,7 +860,7 @@ MSDI;MSDI
 MusicBy;Music by
 MuxingMode;Muxing mode
 MuxingMode_MoreInfo;Muxing mode, more info
-MuxingMode_PackedBitstream;Packed bitstream
+MuxingMode_PackedBitstream;Packed bitstream muxing mode
 Name;Name
 Nationality;Nationality
 NetworkName;Network name
@@ -889,7 +889,7 @@ OpenCandy_11;Resume download
 OpenCandy_12;Exit Installer
 OpenCandy_13;___________ - Recommended by ____________
 OpenCandy_14;Downloading _________
-OpenCandy_15;___________, the software recommended to you by ___________, is now downloading at your requestWe will let you know when it is ready to be installed.
+OpenCandy_15;___________, the software recommended to you by ___________, is now downloading at your request. We will let you know when it is ready to be installed.
 OpenCandy_16;___________ is ready for installation
 OpenCandy_17;___________ is now fully downloaded. Please click on 'Install' to proceed.
 OpenCandy_18;___________ of ___________ downloaded
@@ -911,9 +911,9 @@ OpenCandy_33;Don't Install
 OpenCandy_34;Please select an install option
 OpenCandy_35;______ recommends this software
 OpenCandy_36;Your current installation will not be interrupted
-OpenCaptionsLanguage;Open Captions Language
-OpenCaptionsPresent;Open Captions Present
-OpenCaptionsType;Open Captions Type
+OpenCaptionsLanguage;Open captions language
+OpenCaptionsPresent;Open captions present
+OpenCaptionsType;Open captions type
 Options;Options
 Options_Hint;Preferences
 Original;Original
@@ -923,47 +923,47 @@ OriginalSourceMedium;Original source medium
 OriginalSourceMedium_ID;ID in the original source medium
 Originator;Originator
 Other;Other
-OtherIdentifier;Other Identifier
-OtherIdentifierType;Other Identifier Type
+OtherIdentifier;Other identifier
+OtherIdentifierType;Other identifier type
 Output;Output
 Output format;Output format
 OverallBitRate;Overall bit rate
-OverallBitRate_Maximum;Maximum Overall bit rate
-OverallBitRate_Minimum;Minimum Overall bit rate
+OverallBitRate_Maximum;Maximum overall bit rate
+OverallBitRate_Minimum;Minimum overall bit rate
 OverallBitRate_Mode;Overall bit rate mode
-OverallBitRate_Nominal;Nominal Overall bit rate
+OverallBitRate_Nominal;Nominal overall bit rate
 PackageName;Package name
 Part;Part
 Part_Count;Total count
-PartNumber;Part Number
-PartTotal;Part Total
+PartNumber;Part number
+PartTotal;Part total
 Performer;Performer
 Period;Period
 PodcastCategory;Podcast category
 Phone;Phone
-PictureRatio;Picture Ratio
+PictureRatio;Picture ratio
 PixelAspectRatio;Pixel aspect ratio
 PixelAspectRatio_CleanAperture;Clean aperture pixel aspect ratio
 PixelAspectRatio_Original;Original pixel aspect ratio
-PlayCounter;PlayCounter
+PlayCounter;Play counter
 Played_Count;Times played
-Played_First_Date;First played
-Played_Last_Date;Last played
-PlayTime;PlayTime
+Played_First_Date;First played date
+Played_Last_Date;Last played date
+PlayTime;Play time
 Position;Position
 Position_Total;Total
 Preferences;Preferences
-PrimaryAudioLanguage;Primary Audio Language
+PrimaryAudioLanguage;Primary audio language
 Producer;Producer
 ProductionDesigner;Production designer
-ProductionNumber;Production Number
+ProductionNumber;Production number
 ProductionStudio;Production studio
-ProductPlacement;Product Placement
-ProgrammeHasText;Programme Has Text
-ProgrammeTextLanguage;Programme Text Language
-ProgrammeTitle;Programme Title
+ProductPlacement;Product placement
+ProgrammeHasText;Programme has text
+ProgrammeTextLanguage;Programme text language
+ProgrammeTitle;Programme title
 Publisher;Publisher
-Purchased_Date;purchased date
+Purchased_Date;Purchased date
 Quote character;Quote character
 RadioStation;Radio station
 Rating;Rating
@@ -989,14 +989,14 @@ ScanType_Original;Original scan type
 ScanType_StoreMethod;Scan type, store method
 ScreenplayBy;Screenplay by
 Season;Season
-SecondaryAudioLanguage;Secondary Audio Language
+SecondaryAudioLanguage;Secondary audio language
 see below;see below
-Send HeaderFile;Please send me the Header file here : http://sourceforge.net/projects/mediainfo/ (Bug section)
-Separator_Columns;columns separator
-Separator_Lines;lines separator
-SeriesTitle;Series Title
+Send HeaderFile;Please send me the Header file here: http://sourceforge.net/projects/mediainfo/ (Bug section)
+Separator_Columns;Columns separator
+Separator_Lines;Lines separator
+SeriesTitle;Series title
 ServiceChannel;Service channel number
-ServiceKind;Service kind
+ServiceKind;Kind of service
 ServiceName;Service name
 ServiceProvider;Service provider
 ServiceType;Service type
@@ -1005,52 +1005,52 @@ Set_Count;Set count
 Setup;Setup
 Sharpness;Sharpness
 Sheet;Sheet
-Sheet (Complete);Sheet (Complete)
+Sheet (Complete);Sheet (complete)
 Shell extension;Explorer extension (in Windows Explorer, right click on a file, there will be a MediaInfo option)
 Shell extension, folder;For folders too
 Shell InfoTip;Explorer Tooltip (in Windows Explorer, move the mouse over the file, info will be displayed)
-ShimName;Shim Name
-ShimVersion;Shim Version
+ShimName;Shim name
+ShimVersion;Shim version
 Show menu;Show menu
 Show toolbar;Show toolbar
-SigningPresent;Signing Present
+SigningPresent;Signing present
 SignLanguage;Sign Language
 Sort;Sorted by
 SoundEngineer;Sound engineer
 Source;Source
 Source_Duration;Source duration
 Source_FrameCount;Source frame count
-Source_SamplingCount;Source sample count
+Source_SamplingCount;Source sampling count
 Source_StreamSize;Source stream size
 Source_StreamSize_Encoded;Source encoded stream size
 Standard;Standard
-StoreMethod_InterleavedFields;Interleaved fields
-StoreMethod_SeparatedFields;Separated fields
-StoreMethod_SeparatedFields_1;Separated fields (1 field per block)
-StoreMethod_SeparatedFields_2;Separated fields (2 fields per block)
+StoreMethod_InterleavedFields;Interleaved fields store method
+StoreMethod_SeparatedFields;Separated fields store method
+StoreMethod_SeparatedFields_1;Separated fields store method (1 field per block)
+StoreMethod_SeparatedFields_2;Separated fields store method (2 fields per block)
 Stream;Stream
 Stream_MoreInfo;More information about the stream
-StreamCount;Count of stream of this kind
+StreamCount;Count of streams of this kind
 StreamID;Stream ID
 StreamKind;Kind of stream
-StreamKindID;Stream identifier
-StreamKindPos;Stream identifier
+StreamKindID;Stream kind identifier
+StreamKindPos;Stream kind position
 StreamSize;Stream size
-StreamSize_Demuxed;Stream size when demuxed
+StreamSize_Demuxed;Demuxed stream size
 StreamSize_Encoded;Encoded stream size
-StreamSize_Proportion;Proportion of this stream
+StreamSize_Proportion;Stream proportion
 Subject;Subject
-SubTrack;SubTrack
+SubTrack;Subtrack
 Summary;Summary
 Supported formats;Supported formats
 Supported?;Supported?
 Synopsis;Synopsis
-SystemId;Id
+SystemId;ID
 Tagged_Application;Tagging application
 Tagged_Date;Tagged date
 Technician;Technician
 TermsOfUse;Terms of use
-TertiaryAudioLanguage;Tertiary Audio Language
+TertiaryAudioLanguage;Tertiary audio language
 Text;Text
 Text - Custom;Text - Custom
 Text (HTML);Text (HTML)
@@ -1062,7 +1062,7 @@ Text1;First text stream
 Text2;Second text stream
 Text3;Third text stream
 TextCount;Count of text streams
-TextlessElementsExist;Textless Elements Exist
+TextlessElementsExist;Textless elements exist
 ThanksTo;Thanks to
 Thousands separator;Thousands separator
 TimeCode;Time code
@@ -1075,8 +1075,8 @@ TimeZone;Timezone
 Title;Title
 Title_More;Title, more info
 Total;Total
-TotalNumberOfParts;Total Number Of Parts
-TotalProgrammeDuration;Total Programme Duration
+TotalNumberOfParts;Total number of parts
+TotalProgrammeDuration;Total programme duration
 Track;Track name
 Track_Count;Track count
 transfer_characteristics;Transfer characteristics
@@ -1088,17 +1088,17 @@ UniqueID;Unique ID
 Unknown;Unknown
 Url;Url
 Video;Video
-Video stream(s);Video stream(s)
-Video_Codec_List;Codecs Video
+Video stream(s);Video streams
+Video_Codec_List;Video codecs
 Video_Delay;Delay relative to video
 Video_No;No video
 Video0_Delay;Video0 delay
 Video1;First video stream
-VideoComments;Video Comments
+VideoComments;Video comments
 VideoCount;Count of video streams
 View;View
 View_Hint;Change the means of viewing information
-Warning : more streams in the files;Warning : there are more streams in the files
+Warning : more streams in the files;Warning: there are more streams in the files
 Web;Web
 WebSite_Audio;Go to the web site of this audio codec
 WebSite_Audio_More;Go to the web site (%Url%) to find this audio codec
